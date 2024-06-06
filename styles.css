@@ -1,0 +1,168 @@
+body{
+    color: blck;
+    background-color: white;
+}
+.section{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+.div1{
+    width: 50%;
+}
+.image{
+    width: 100%;
+}
+.div2{
+    width: 50%;
+    padding: 20px;
+    margin: 20px;
+}
+    
+.signin-text{
+    font-family: Inter;
+font-size: 50px;
+font-weight: 700;
+line-height: 60.51px;
+text-align: left;
+color: 000000;
+}
+.account{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+color: #818181;
+
+}
+.first{
+    width: 422px;
+height: 60px;
+top: 201px;
+left: 925.01px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color: #D1D1D1;
+margin-top: 10px;
+border-radius: 10px;
+
+}
+.last{
+    width: 422px;
+height: 60px;
+top: 294px;
+left: 925.01px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color: #D1D1D1;
+border-radius: 10px;
+
+
+}
+.email{
+    width: 422px;
+height: 60px;
+top: 376px;
+left: 925.01px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color: #D1D1D1;
+border-radius: 10px;
+
+
+}
+.password{
+    width: 422px;
+height: 60px;
+top: 469px;
+left: 925.01px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+color: #D1D1D1;
+border-radius: 10px;
+
+}
+.input{
+    margin-bottom: 20px;
+    width: 100%;
+}
+.checked{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+
+}
+.agree{
+    color: #818181;
+}
+input[type="checkbox"]{
+    width: 15.5px;
+height: 12.5px;
+top: 586.5px;
+left: 932.01px;
+gap: 0px;
+border: 2px 0px 0px 0px;
+opacity: 0px;
+accent-color: #7754F6;
+background-color: #818181;
+
+
+}
+.create{
+    width: 422px;
+height: 60px;
+top: 644px;
+left: 925.01px;
+gap: 0px;
+border-radius: 10px;
+opacity: 0px;
+color:  #FFFDFD;
+background-color: #7754F6;
+
+
+
+}
+.login{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19.36px;
+text-align: left;
+color: #7754F6;
+}
+.member{
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19.36px;
+text-align: left;
+color: #818181;
+}
+.continue{
+    text-align: center;
+   color: #D1D1D1;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+.icn{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+    
+    
